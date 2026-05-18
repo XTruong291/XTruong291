@@ -12,4 +12,4 @@
 I am currently a mid-level student at NEU and an intern at TaureauAI.
 I am passionate about becoming a full-stack engineer, and have a growing interest in AI.
 
-#### Contact me on: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/xuan.truong.232632)
+#### Contact me on: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/xuan.truong.232632)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyễn-trường-b90577361)
